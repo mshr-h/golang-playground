@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 const (
+	// NUM is a number of products
 	NUM = 10
 )
 
